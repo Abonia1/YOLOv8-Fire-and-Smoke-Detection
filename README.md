@@ -4,6 +4,11 @@
 This repository contains the code for tracking and detecting fires and smokes in real-time video using YOLOv8. The project uses a pre-trained YOLOv8 model to identify the presence of fire and smoke in a given video frame and track it through subsequent frames. The project is implemented using Python and OpenCV library.
 Requirements
 
+
+
+https://user-images.githubusercontent.com/22887323/216410880-297f4408-8d22-47a1-b894-6f3f3d8109fb.mp4
+
+
 ## The following packages are required to run the code
     ultralytics
     roboflow
