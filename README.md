@@ -1,8 +1,7 @@
 # Fire and Smoke Tracking and Detection using YOLOv8
 ## Introduction
 
-This repository contains the code for tracking and detecting fires and smokes in real-time video using YOLOv8. The project uses a pre-trained YOLOv8 model to identify the presence of fire and smoke in a given video frame and track it through subsequent frames. The project is implemented using Python and OpenCV library.
-Requirements
+This repository contains the code for tracking and detecting fires and smokes in real-time video using YOLOv8. The project uses a pre-trained YOLOv8 model to identify the presence of fire and smoke in a given video frame and track it through subsequent frames. 
 
 
 
